@@ -17,10 +17,10 @@ concepts like :
         <li>styled components</li>
     </ul>
 </div>
-<div>
-<img align="center" width="866" alt="image" src="https://user-images.githubusercontent.com/74001727/223793816-2dbbf304-ece3-4198-93ef-4051ff73b379.png">
-
-
+<div align="center">
+    <img align="center" width="500" height="300" alt="image" src="https://user-images.githubusercontent.com/74001727/223793816-2dbbf304-ece3-4198-93ef-4051ff73b379.png">
+    <img align="center" width="500" height="300" alt="image" src="https://user-images.githubusercontent.com/74001727/223794135-0eafeef0-3280-4c56-8afa-209eb7c1f21c.png">
+    <img align="center" width="500" height="300" alt="image" src="https://user-images.githubusercontent.com/74001727/223794238-d5561f92-f4ae-47d3-99db-8f12b7adf79a.png">
 </div>
 <div>
     you can find the live site here:https://sangeetha-jula-country-quiz.netlify.app/
