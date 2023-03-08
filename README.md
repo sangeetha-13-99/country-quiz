@@ -18,6 +18,7 @@ concepts like :
     </ul>
 </div>
 <div>
+<img align="center" width="866" alt="image" src="https://user-images.githubusercontent.com/74001727/223793816-2dbbf304-ece3-4198-93ef-4051ff73b379.png">
 
 
 </div>
